@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumiya Islam Mim</h1>
-<h3 align="center">Web Developer | Frontend Specialist</h3>
+<h3 align="center">Web Developer | Frontend Developer</h3>
 
-<p align="center">I'm a dedicated Web Developer and Frontend Specialist, skilled in various programming languages and tools. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
+<p align="center">I'm a dedicated Web Developer and Frontend Developer, skilled in various programming languages and tools. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
 
 📧 Email me at **sumiyaislam1093@gmail.com** for inquiries or collaboration.
 
