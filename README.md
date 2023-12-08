@@ -1,8 +1,8 @@
-![Banner](github-banner)
-<h1 align="center">Hi 👋, I'm Sumiya Islam Mim</h1>
-<h3 align="center">Web Developer | Frontend Developer</h3>
+<p align="center">
+  <img src="github-banner.png" alt="Banner" style="width: 100%;">
+</p>
 
-<p align="center">I'm a dedicated Web Developer and Frontend Developer, skilled in various programming languages and tools. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
+<p align="center">I'm a dedicated Web Developer, skilled in various programming languages and tools. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
 
 📧 Email me at **sumiyaislam1093@gmail.com** for inquiries or collaboration.
 
@@ -74,3 +74,10 @@
 
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumiyamim&show_icons=true&locale=en&layout=compact" alt="sumiyamim" /></p>
+
+<h3 align="left">📉 Current Stats:</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SumiyaMim&theme=shadow-blue" alt="GitHub Streak">
+  </a>
+</p>
