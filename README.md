@@ -15,7 +15,7 @@
 <h3 align="left">💻 Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,nodejs,mongodb,mysql,py,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,nodejs,mongodb,mysql,py,c&theme=light" />
   </a>
 </p>
 
@@ -23,12 +23,9 @@
 <h3 align="left">🔍 Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,firebase,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,firebase,netlify,postman&theme=light" />
   </a>
 </p>
-
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumiyamim&show_icons=true&locale=en&layout=compact" alt="sumiyamim" /></p>
 
 <br/>
 <h3 align="left">📉 Current Stats:</h3>
@@ -37,3 +34,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SumiyaMim&theme=shadow-blue" alt="GitHub Streak">
   </a>
 </p>
+
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumiyamim&show_icons=true&locale=en&layout=compact" alt="sumiyamim" /></p>
