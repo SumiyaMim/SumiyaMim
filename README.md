@@ -1,3 +1,4 @@
+![Banner](github-banner)
 <h1 align="center">Hi 👋, I'm Sumiya Islam Mim</h1>
 <h3 align="center">Web Developer | Frontend Developer</h3>
 
