@@ -57,4 +57,27 @@
 <br/>
 - Integrated payment features, established a robust user management system, and created a dashboard for role management.
 </p>
+<p><strong>Technology:</strong> HTML, Tailwind CSS, Headless UI, Javascript, ReactJS, React-Router, Firebase, NodeJS, ExpressJS, 
+MongoDB, Mongoose, Stripe</p>
+
+<br/>
+<h4>JobEarth</h4>
+<h4><a href="https://github.com/SumiyaMim/jobearth-client">Client</a> | <a href="https://github.com/SumiyaMim/jobearth-server">Server</a> | <a href="https://job-earth.web.app/">Live Website</a></h4>
+<p>
+- JobEarth is an extensive online marketplace offering various features catering to both job seekers and project 
+owners.
+<br/>
+- Enabling efficient job posting, job bidding, and effective project management.
+</p>
+<p><strong>Technology:</strong> HTML, Tailwind CSS, Javascript, ReactJS, React-Router, Firebase, NodeJS, ExpressJS, MongoDB</p>
+
+<br/>
+<h4>Blushify</h4>
+<h4><a href="https://github.com/SumiyaMim/blushify-client">Client</a> | <a href="https://github.com/SumiyaMim/blushify-server">Server</a> | <a href="https://blushify-7f7a8.web.app/">Live Website</a></h4>
+<p>
+- Simplified beauty shopping experience through a user-friendly interface and features like registration, product 
+browsing, and seamless theme toggling.
+<br/>
+- Implemented efficient cart management functionalities to enhance user experience.
+</p>
 <p><strong>Technology:</strong> HTML, Tailwind CSS, Javascript, ReactJS, React-Router, Firebase, NodeJS, ExpressJS, MongoDB</p>
