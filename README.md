@@ -39,11 +39,11 @@
 <h3 align="left">📉 Current Stats:</h3>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SumiyaMim&theme=transparent" alt="GitHub Streak" height="200">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumiyaMim&theme=default" alt="GitHub Stats" height="200">
 </div>
 
 <br/>
 <div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumiyaMim&theme=default" alt="GitHub Stats" height="200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumiyamim&show_icons=true&locale=en&layout=donut" alt="Top Languages" height="200">
 </div>
 
