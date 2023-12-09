@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="Banner" style="width: 100%;">
 </p>
 
-<p align="center">I'm a dedicated Web Developer with expertise in various programming languages such as  HTML, CSS, JavaScript, React, Node.js, and Express.js. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
+<p align="center">I'm a dedicated Web Developer with expertise in various programming languages such as  HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
 
 📧 Email me at **sumiyaislam1093@gmail.com** for inquiries or collaboration.
 
@@ -47,4 +47,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumiyamim&show_icons=true&locale=en&layout=donut" alt="Top Languages" height="200">
 </div>
 
+<br/>
+<h3 align="left">📉 Latest Projects:</h3>
 
+<h4>OutPoll</h4>
+<h4><a href="https://github.com/SumiyaMim/outpoll-client">Client</a> | <a href="https://github.com/SumiyaMim/outpoll-server">Server</a> | <a href="https://outpoll-59146.web.app/">Live Website</a></h4>
+<p>
+- OutPoll is a comprehensive Polling and Survey Application designed for survey creation, voting, result analysis, and user interaction.
+<br/>
+- Integrated payment features, established a robust user management system, and created a dashboard for role management.
+</p>
+<p><strong>Technology:</strong> HTML, Tailwind CSS, Javascript, ReactJS, React-Router, Firebase, NodeJS, ExpressJS, MongoDB</p>
