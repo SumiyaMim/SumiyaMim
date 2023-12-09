@@ -48,7 +48,7 @@
 </div>
 
 <br/>
-<h3 align="left">📉 Latest Projects:</h3>
+<h3 align="left">🖥️ Latest Projects:</h3>
 
 <h4>OutPoll</h4>
 <h4><a href="https://github.com/SumiyaMim/outpoll-client">Client</a> | <a href="https://github.com/SumiyaMim/outpoll-server">Server</a> | <a href="https://outpoll-59146.web.app/">Live Website</a></h4>
