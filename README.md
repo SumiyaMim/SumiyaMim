@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Banner" style="width: 100%;">
+  <img src="github-profile-banner.png" alt="Banner" style="width: 100%;">
 </p>
 
 <p align="center">I'm a dedicated Web Developer with expertise in various programming languages such as  HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
