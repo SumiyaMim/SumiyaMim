@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="Banner" style="width: 100%;">
 </p>
 
-<p align="center">I'm a dedicated Web Developer, skilled in various programming languages and tools. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
+<p align="center">I'm a dedicated Web Developer with expertise in various programming languages such as  HTML, CSS, JavaScript, React, Node.js, and Express.js. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
 
 📧 Email me at **sumiyaislam1093@gmail.com** for inquiries or collaboration.
 
