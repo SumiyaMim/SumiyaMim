@@ -31,7 +31,7 @@
 <h3 align="left">🔍 Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,firebase,netlify,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,figma,netlify,vercel,postman&theme=light" />
   </a>
 </p>
 
