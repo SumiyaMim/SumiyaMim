@@ -2,7 +2,7 @@
   <img src="github-profile-banner.png" alt="Banner" style="width: 100%;">
 </p>
 
-<p align="center">I'm a dedicated Web Developer with expertise in various programming languages such as HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Express.js, Node.js, and MongoDB. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
+<p align="center">I am a dedicated Web Developer with expertise in various programming languages and libraries, including HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Express.js, Node.js, and MongoDB. I transform creative designs into user-friendly web solutions, focusing on elegance and efficiency to deliver top-notch results.</p>
 
 📧 Email me at **sumiyaislam1093@gmail.com** for inquiries or collaboration.
 
